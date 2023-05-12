@@ -6,3 +6,5 @@ The objective of this data analysis project is to compare the actual time taken 
 
 The results of this study can also help companies identify areas for improvement and invest in technologies that can enhance the accuracy of their travel time and distance estimates.
 Overall, this data analysis project has the potential to provide valuable insights into the accuracy of OSRM and its impact on the logistics industry.
+
+![Logistics Travel](https://github.com/Deepanshus29/Logistics_optimization/assets/121329003/30dd7ffd-6771-4e5e-ad16-af49fc2341e5)
